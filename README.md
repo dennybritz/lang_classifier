@@ -6,7 +6,7 @@
 ### Usage
 
 ```shell
-./lang_classifier [filename1] [filename2] [...]
+./lang_classifier.py [filename1] [filename2] [...]
 ```
 
   Each file will be moved into a directory with its language code.
